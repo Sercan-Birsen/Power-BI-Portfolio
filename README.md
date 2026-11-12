@@ -34,3 +34,4 @@ The measures cover actual, budget, and forecast totals; variance and prior-year 
 - `docs/DAX_Measures.md` — DAX measure reference
 - `docs/Power_Query_Workflow.md` — transformation steps and added columns
 - `docs/Case_study_Formulas.docx` — original formula notes
+- `data/Case_Study_Data_Reporting.xlsx` — raw source workbook for the case study
