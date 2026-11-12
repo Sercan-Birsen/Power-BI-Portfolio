@@ -43,3 +43,20 @@ The measures cover actual, budget, and forecast totals; variance and prior-year 
 - [Power Query workflow](docs/Power_Query_Workflow.md)
 - [Case study notes](docs/Case_study_Formulas.docx)
 - [Raw Excel data](data/Case_Study_Data_Reporting.xlsx)
+
+## Report Screenshots
+
+### Annual Financial Performance
+![Annual Financial Performance](images/01-annual-financial-performance.png)
+
+### Division Performance
+![Division Performance](images/02-division-performance.png)
+
+### Flux Analysis
+![Flux Analysis](images/03-flux-analysis.png)
+
+### Historical Actual Sales
+![Historical Actual Sales](images/04-historical-actual-sales.png)
+
+### 2026 Sales vs Budget
+![2026 Sales vs Budget](images/05-2026-sales-vs-budget.png)
