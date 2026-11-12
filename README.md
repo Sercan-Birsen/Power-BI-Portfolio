@@ -35,3 +35,11 @@ The measures cover actual, budget, and forecast totals; variance and prior-year 
 - `docs/Power_Query_Workflow.md` — transformation steps and added columns
 - `docs/Case_study_Formulas.docx` — original formula notes
 - `data/Case_Study_Data_Reporting.xlsx` — raw source workbook for the case study
+
+## Project Files
+
+- [Power BI report](report/Case_Study_Sercan_Birsen.pbix)
+- [DAX measures](docs/DAX_Measures.md)
+- [Power Query workflow](docs/Power_Query_Workflow.md)
+- [Case study notes](docs/Case_study_Formulas.docx)
+- [Raw Excel data](data/Case_Study_Data_Reporting.xlsx)
